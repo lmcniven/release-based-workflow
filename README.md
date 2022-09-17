@@ -179,7 +179,7 @@ You can now [merge](https://docs.github.com/en/get-started/quickstart/github-glo
 </details>
 
 <!--Step 5-->
-<details id=5 open>
+<details id=5>
 <summary><h2>Step 5: Finalize the release</h2></summary>
 
 ### Finalizing releases
@@ -247,7 +247,7 @@ Submit a hotfix by approving and merging the pull request.
 </details>
 
 <!--Step 7-->
-<details id=7>
+<details id=7 open>
 <summary><h2>Step 7: Create release v1.0.1</h2></summary>
 
 ### A final release
